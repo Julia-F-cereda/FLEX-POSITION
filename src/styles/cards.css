@@ -1,3 +1,19 @@
 .speaker-card{
+    width: 300px;
+    justify-content: space-between;
+    background-color: azure;
+    border-radius: 10px;
+    
+  
+ 
+
+
+}
+.speaker-card img {
+    width: 100%;
+}
+
+.speaker-card figure{
+    
 
 }

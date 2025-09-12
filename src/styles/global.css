@@ -21,7 +21,9 @@ html{
 
 .content-Nosso-time{
     background-color: rgb(166, 231, 226);
-    
+    justify-content: space-evenly;
+
+
 
 }
 
