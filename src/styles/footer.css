@@ -45,6 +45,11 @@
 }
 
 .footer-social ul{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:60px;
+
 
 }
 
